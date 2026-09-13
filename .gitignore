@@ -1,0 +1,2 @@
+# bkit plugin runtime state (session-local, per upstream .gitignore)
+.bkit/
